@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing B.Tech<br>Trying to learn basics in C and DSA in java<br>Goal: try to do appdev <br>Fun Fact: I also take photos<br>
+I am currently pursuing B.Tech<br>Trying to learn Node.js and DSA in C++<br>Goal: try to do appdev <br>Fun Fact: I also take photos<br>
 
 
 ## 🌐 Socials:
