@@ -102,5 +102,3 @@ Here’s a sneak peek into my favorite projects:
     \  ,      , /    
      '-'____'-' 
 "Code like there's no bug tomorrow!"
-
-</div> ```
