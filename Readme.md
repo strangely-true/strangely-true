@@ -2,11 +2,21 @@
 
 # 🌟 Sabittwa Banerjee
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;IoT+Engineering+Student;DSA+%26+Node.js+Enthusiast;Hackathon+Champion;Photography+Aficionado)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;IoT+Engineering+Student;Hackathon+Champion;Photography+Aficionado)](https://git.io/typing-svg)
 
 </div>
 
 ---
+# 🚀 About Me
+
+> "Code is poetry written in logic"
+
+I'm a passionate developer who loves turning ideas into reality through code. Currently focusing on full-stack development and exploring the fascinating world of emerging technologies.
+
+### 🎯 Current Focus
+- 🌱 Learning **[Current Technology]**
+- 🔭 Working on **[Current Project]**
+- 👯 Looking to collaborate on **Open Source Projects**
 
 ## 🏗️ Tech Stack
 
