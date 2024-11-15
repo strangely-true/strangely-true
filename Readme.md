@@ -1,25 +1,10 @@
-# 🌟 Sabittwa Banerjee
-
 <div align="center">
+
+# 🌟 Sabittwa Banerjee
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;IoT+Engineering+Student;DSA+%26+Node.js+Enthusiast;Hackathon+Champion;Photography+Aficionado)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## ✨ About Me
-
-> **“Code, Create, Innovate!”**
-
-Hi there! I'm **Sabittwa Banerjee**, a passionate **B.Tech Computer Science and Engineering (IoT)** student, specializing in full-stack web development and the fascinating world of **AI and Data Structures**. I enjoy creating scalable applications and solving real-world challenges, while constantly learning and growing.
-
-🎯 **Core Expertise:**
-- Proficient in modern tech stacks like **Node.js**, **React.js**, **Express.js**, and **Next.js**.
-- Strong foundation in **Data Structures & Algorithms (C++/C)**.
-- Adept at API integrations and database management (**PostgreSQL**, **MongoDB**).
-
-📸 Fun fact? I see the world through a unique lens as a **photography lover**!
 
 ---
 
@@ -43,7 +28,7 @@ Hi there! I'm **Sabittwa Banerjee**, a passionate **B.Tech Computer Science and 
 
 ## 🌟 Projects Portfolio
 
-Here’s a sneak peek into my favorite projects:
+Here's a sneak peek into my favorite projects:
 
 ### 📌 [**MealMetric**](https://github.com/strangely-true/MealMetric)
 - **Tech:** Node.js, Express.js, PostgreSQL, EJS
@@ -96,9 +81,20 @@ Here’s a sneak peek into my favorite projects:
 <div align="center">
 
 ```ascii
-     ,   /\   .     
-    / '-'  '-' \    
-   |    .  .   |   
-    \  ,      , /    
-     '-'____'-' 
-"Code like there's no bug tomorrow!"
+                           .oMc
+                        .MMMMMP
+                      .MM888MM
+....                .MM88888MP
+MMMMMMMMb.         d8MM8tt8MM
+ MM88888MMMMc `:' dMME8ttt8MM
+  MM88tt888EMMc:dMM8E88tt88MP
+   MM8ttt888EEM8MMEEE8E888MC
+   `MM888t8EEEM8MMEEE8t8888Mb
+    "MM88888tEM8"MME88ttt88MM
+     dM88ttt8EM8"MMM888ttt8MM
+     MM8ttt88MM" " "MMNICKMM"
+     3M88888MM"      "MMMP"
+
+
+```
+</div>
