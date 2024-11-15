@@ -45,11 +45,6 @@ Here's a sneak peek into my favorite projects:
 - Developed a dynamic web app to calculate nutritional values of meals based on user-inputted ingredients.
 - Designed an intuitive interface with real-time nutrition updates.
 
-### 📌 [**Coordina**](https://coordina-murex.vercel.app/)
-- **Tech:** Next.js, React.js, MongoDB
-- Streamlined urban project management and conflict resolution for Smart India Hackathon.
-- Focused on user-friendly dashboards and inter-department collaboration features.
-
 ### 📌 [**Cyberpunk Blog**](https://github.com/strangely-true/capstone-blog)
 - **Tech:** Node.js, Express.js, EJS
 - Built a visually striking blogging platform with full CRUD functionality.
