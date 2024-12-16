@@ -54,8 +54,9 @@ Here's a sneak peek into my favorite projects:
 
 ## 🏆 Achievements & Certifications
 
-- 💼 **Hackathon Enthusiast:** Participated in **Smart India Hackathon**, working on inter-departmental project coordination.
+- 💼 **Hackathon Finalist:** Participated in **Smart India Hackathon**, working on inter-departmental project coordination.
 - 🏅 **CS50 Certification:** Strengthened knowledge in programming fundamentals, AI, and cybersecurity. ([View Certificate](https://certificates.cs50.io/0f5365d3-ca9c-4ffe-98db-a5f6fd0b1708.pdf?size=a4))
+- 🏅 **Ideathon Runner-up:** Participated in **Hult prize - On campus round** and secured 2nd place.
 
 ---
 
