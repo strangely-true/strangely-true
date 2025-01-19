@@ -40,6 +40,17 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 Here's a sneak peek into my favorite projects:
 
+### 📌 [**My Portfolio**](https://strangelytrue.vercel.app/)
+- **Tech:** Next.js, Tailwind CSS, Framer Motion
+- A sleek and interactive portfolio website showcasing my projects, achievements, and skills.
+- Features dynamic animations powered by **Framer Motion** and smooth scrolling with **Lenis**.
+- Focused on minimalism and modern aesthetics to effectively highlight my professional journey.
+
+### 📌 [**Coordina**](https://github.com/Prayas-35/Coordina)
+- **Tech:** Next.js, Blockchain, MongoDB
+- Streamlined inter-departmental coordination and conflict resolution for urban projects.
+- Integrated conflict management tools, discussion forums, and emergency chatbots.
+
 ### 📌 [**MealMetric**](https://github.com/strangely-true/MealMetric)
 - **Tech:** Node.js, Express.js, PostgreSQL, EJS
 - Developed a dynamic web app to calculate nutritional values of meals based on user-inputted ingredients.
@@ -54,7 +65,7 @@ Here's a sneak peek into my favorite projects:
 
 ## 🏆 Achievements & Certifications
 
-- 💼 **Hackathon Finalist:** Participated in **Smart India Hackathon**, working on inter-departmental project coordination.
+- 💼 **Hackathon Finalist:** Participated in **Smart India Hackathon 2024**, working on inter-departmental project coordination.
 - 🏅 **CS50 Certification:** Strengthened knowledge in programming fundamentals, AI, and cybersecurity. ([View Certificate](https://certificates.cs50.io/0f5365d3-ca9c-4ffe-98db-a5f6fd0b1708.pdf?size=a4))
 - 🏅 **Ideathon Runner-up:** Participated in **Hult prize - On campus round** and secured 2nd place.
 
@@ -76,6 +87,7 @@ Here's a sneak peek into my favorite projects:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://strangelytrue.vercel.app/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/strangely_true)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabittwa-banerjee-ab52b5291)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strangely-true)
