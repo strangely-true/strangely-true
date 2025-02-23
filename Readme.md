@@ -15,7 +15,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 ### 🎯 Current Focus
 - 🌱 Learning **Next.js**
-- 🔭 Working on **Personal Portfolio**
+- 🔭 Working on **VS Code Extension**
 - 👯 Looking to collaborate on **Open Source Projects**
 
 ## 🏗️ Tech Stack
