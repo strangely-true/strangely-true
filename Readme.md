@@ -46,6 +46,13 @@ Here's a sneak peek into my favorite projects:
 - Features dynamic animations powered by **Framer Motion** and smooth scrolling with **Lenis**.
 - Focused on minimalism and modern aesthetics to effectively highlight my professional journey.
 
+### 📓 [**Github Diary Extension**](https://github.com/strangely-true/git-diary)
+- **Tech:** VS Code API, Node.js, GitHub REST API, Axios, Lodash
+- A VS Code extension that automatically creates a time-stamped code journal in your private GitHub repository
+- Features intelligent change tracking with **line-level diffs** and **smart snippet capture**
+- Implements secure GitHub OAuth flow and **encrypted token storage**
+- Designed for developers who want an automated, private record of their coding journey
+
 ### 📌 [**Coordina**](https://github.com/Prayas-35/Coordina)
 - **Tech:** Next.js, Blockchain, MongoDB
 - Streamlined inter-departmental coordination and conflict resolution for urban projects.
