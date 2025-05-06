@@ -46,6 +46,13 @@ Here's a sneak peek into my favorite projects:
 - Features dynamic animations powered by **Framer Motion** and smooth scrolling with **Lenis**.
 - Focused on minimalism and modern aesthetics to effectively highlight my professional journey.
 
+### 🛡️ [**SatyanwesAI**](https://truth-scope-pro.vercel.app/)
+- **Tech**: Chrome Extension (JavaScript), Python Flask, Next.js, PostgreSQL, Tailwind CSS, Shadcn UI, Clerk Auth
+- A comprehensive fake news detection platform with browser extension and web dashboard to combat online misinformation
+- Features intelligent content analysis using machine learning to detect misleading text, sentiment patterns, and political bias
+- Implements media forensics to identify AI-generated images/videos through Sightengine API and OCR.space integration
+- Designed with a modular microservices architecture: specialized Flask servers handling text analysis, sentiment/bias detection, and media verification
+
 ### 📓 [**Github Diary Extension**](https://github.com/strangely-true/git-diary)
 - **Tech:** VS Code API, Node.js, GitHub REST API, Axios, Lodash
 - A VS Code extension that automatically creates a time-stamped code journal in your private GitHub repository
