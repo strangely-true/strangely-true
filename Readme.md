@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Sabittwa%20Banerjee&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=39FF14&desc=Full-Stack%20Dev%20%7C%20IoT%20Engineer%20%7C%20Builder&descFontSize=20&descAlignY=60&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Code+is+poetry+written+in+logic.;Building+TruthScope+%26+VS+Code+Tools.;Turning+caffeine+into+software.)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/sabittwa-banerjee-ab52b5291"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://strangelytrue.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
