@@ -32,7 +32,7 @@
 | **[TrialGo](https://github.com/strangely-true/trialscope-technoverse)** | A platform to match patients to clinical trials | Next.js, Prisma, TypeScript, Python, AWS | 🏆 1st Runner's Up @ Cognizant Technoverse Hackathon'26|
 | **[TruthScope](https://truth-scope-pro.vercel.app/)** | A media forensics platform to detect fake news and AI-generated content. | Python Flask, Next.js, Postgres, Shadcn UI | 🏆 Winner 4th Place @ SBH'25 |
 | **[Git Diary Extension](https://github.com/strangely-true/git-diary)** | Automated coding journal for developers that captures smart snippets. | VS Code API, Node.js, GitHub REST API | VS Code Tool |
-| **[Coordina](https://github.com/Prayas-35/Coordina)** | Urban project coordination & conflict resolution system. | Next.js | - |
+| **[Coordina](https://github.com/Prayas-35/Coordina)** | Urban project coordination & conflict resolution system. | Next.js | SIH'24 Grand Finalist|
 | **[MealMetric](https://github.com/strangely-true/MealMetric)** | Real-time nutritional calculator. | Node.js, EJS, Postgres | - |
 | **[Cyberpunk Blog](https://github.com/strangely-true/capstone-blog)** | A retro-futuristic blogging platform. | Express, Node | - |
 
